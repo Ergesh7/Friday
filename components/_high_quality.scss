@@ -1,0 +1,91 @@
+.container{
+    max-width: 1113px;
+    margin: 0 auto;
+    }
+
+
+    .standart__block{
+    margin-top: 210px;
+    }
+
+    .high_quality{
+        background-color: #F6F6F8;
+
+    }
+
+.projects{
+width: 105px;
+height: 67px;
+margin-top: 70px;
+}
+
+.projects img{
+width: 30px;
+height: 30px;
+
+}
+
+.pro{
+display: flex;
+align-items: center;
+height: 15px;
+gap: 10px;
+}
+
+.pro h2{
+font-family: "Montserrat";
+font-size: 32px;
+line-height: 20px;
+
+}
+
+.projects p{
+font-family: "Montserrat";
+font-size: 16px;
+}
+
+
+
+
+
+
+
+.high__standart{
+display: flex;
+align-items: center;
+}
+
+.about__standart h2{
+font-family: "Montserrat";
+font-size: 36px;
+color: #323232;
+}
+
+.about__standart p{
+font-family: "Montserrat";
+font-size: 16px;
+color: 999999;
+width: 490px;
+margin-top: 40px;
+}
+
+.about__standart a{
+font-family: "Montserrat";
+font-size: 16px;
+color: #4985FF;
+margin-top: 30px;
+}
+
+.grey__line{
+width: 100%;
+min-height: 1px;
+border: 1px;
+background-color: #E0E0E0;
+margin-top: 90px;
+}
+
+.project__block{
+display: flex;
+justify-content: center;
+gap: 100px;
+}
