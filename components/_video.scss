@@ -1,0 +1,48 @@
+
+.container{
+    max-width: 1113px;
+    margin: 0 auto;
+    }
+
+
+.video{
+background: url(../assets/img/video_img.png) center;
+background-size: cover;
+height: 570px;
+width: 100%; 
+// margin-top: 130px;\
+margin-bottom: 270px;
+}
+
+.video__content h2{
+ margin-top: 80px;
+font-family: "Montserrat";
+font-size: 36px;
+color: white;
+text-align: center;
+align-items: center;
+}
+
+.video__content p{
+text-align: center;
+align-items: center;
+font-family: "Montserrat";
+font-size: 16px;
+color: #FFFFFF;
+}
+
+.video__block{
+display: flex;
+justify-content: center;
+margin-top: 150px;
+
+}
+
+.grey__line{
+    width: 100%;
+    min-height: 1px;
+    border: 1px;
+    background-color: #E0E0E0;
+    margin-top: 90px;
+    // margin-bottom: 170px;
+    }

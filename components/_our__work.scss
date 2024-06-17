@@ -4,6 +4,10 @@ margin: 0 auto;
 }
 
 
+.our__work{
+margin-top: 170px;
+}
+
 
 
 .work__words{
@@ -12,4 +16,96 @@ justify-content: space-around;
 align-items: center;
 
 }
+
+
+.work__words h2{
+font-family: "Montserrat";
+font-size: 36px;
+color: white;
+}
+
+.work__words button{
+font-family: "Montserrat";
+font-size: 16px;
+width: 200px;
+height: 45px;
+border-radius: 30px;
+background-color: rgb(98, 98, 242);
+// color: white;
+font-family: 'Montserrat';
+}
+
+.work__words a{
+color: white;
+}
+
+.ads__content{
+
+    display: block;
+    align-items: center;
     
+    width: 350px;
+
+}
+
+
+.ads_block{
+display: flex;
+gap: 30px;
+margin-top: 50px;
+}
+
+.ads__content img{
+width: 350px;
+height: 300px;
+}
+
+
+
+.ads__content h3{
+font-family: "Montserrat";
+font-size: 18px;
+color: black;
+margin-top: 30px;
+}
+
+
+.ads__content p{
+font-family: "Montserrat";
+font-size: 16px;
+color: #999999;
+margin-top: 30px;
+margin-bottom: 50px;
+}
+
+
+.ads__content a{
+font-family: "Montserrat";
+font-size: 16px;
+color: #4985FF;
+// margin-top: 80px;
+}
+
+.grey__line{
+    width: 100%;
+    min-height: 1px;
+    border: 1px;
+    background-color: #E0E0E0;
+    margin-top: 90px;
+    margin-bottom: 170px;
+    }
+
+
+
+    .blue__section{
+    position: absolute;
+    background-color: blue;
+    height: 450px;
+    width: 100%;
+    
+    }
+
+    .work__content{
+    position: relative;
+    margin-bottom: -350px;
+    }
