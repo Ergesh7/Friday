@@ -295,14 +295,14 @@
 .ads__content a {
   font-family: "Montserrat";
   font-size: 16px;
-  color: #4985FF;
+  color: #4985ff;
 }
 
 .grey__line {
   width: 100%;
   min-height: 1px;
   border: 1px;
-  background-color: #E0E0E0;
+  background-color: #e0e0e0;
   margin-top: 90px;
   margin-bottom: 170px;
 }
